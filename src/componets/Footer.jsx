@@ -9,8 +9,6 @@ const Footer =(
             <FooterContainer>
                 <FooterTextBox>
                     <h1>Contact Me</h1>
-                    <p>4001 Benjamin Dr.</p>
-                    <p>Sioux Falls, SD 57103</p>
                     <p>DriedFruitAuNatural@gmail.com</p>
                     <FooterSocialMediaContainer>
                         <IconButton
