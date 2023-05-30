@@ -1,0 +1,61 @@
+body {
+    font-family: "Century Gothic", 'Lato', sans-serif;
+}
+
+a {
+text-decoration: none;
+}
+
+.et-hero-title-container{
+    background-image: url('../Fruit.jpg');
+    height: calc(100vh - 60px);
+    width: 100%;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    font-size: 0.8rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+.et-main{
+    height: calc(100vh - 60px);
+
+}
+.et-hero-title-container > h1 {
+    font-size: 2rem;
+    margin: 0;
+    letter-spacing: 1rem;
+    color: #FFF;
+}
+.et-hero-title-container > h3 {
+    font-size: 1rem;
+        letter-spacing: 0.3rem;
+        opacity: 0.6;
+    color: #FFF;
+}
+.et-hero-tabs h1{
+    font-family: 'Brightwall', cursive;
+    color: #FFF;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 1px;
+    letter-spacing: 0.3rem;
+}
+
+.et-hero-tabs-container {
+display: flex;
+flex-direction: row;
+position: absolute;
+bottom: 0;
+width: 100%;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+background: #fff;
+z-index: 10;
+
+}
