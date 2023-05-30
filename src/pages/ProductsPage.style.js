@@ -30,9 +30,8 @@ export const ProductContainer = styled.div`
  }
 `
 export const HeaderContainer = styled.div`
- width:  90%;
+ width:  67vw;
  padding: 30px 15vw;
- //padding-bottom: 30px;
  text-align: left;
  h1{
   color : #2a2924;
@@ -45,7 +44,7 @@ export const HeaderContainer = styled.div`
   font-size: large;
  }
  @media (max-width: 600px) {
-  margin: 0px 15vw;
+  margin: 0 15vw;
 
  }
  `

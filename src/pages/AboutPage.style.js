@@ -15,7 +15,7 @@ export const AboutContainer = styled.div`
   margin : 0 10vw;
   min-height: 66vh;
 
-  @media (max-width: 1000px) {
+  @media (max-width: 1075px) {
     max-width: 95vw;
     flex-direction: column;
     height: fit-content;
@@ -27,7 +27,7 @@ export const TextBox = styled.div`
   display: flex;
   box-sizing: content-box;
   flex-direction: column;
-  max-height:500px;
+  //max-height:500px;
   text-align: left;
   margin: 0 0 0 0;
   padding: 0 50px 0 50px;
@@ -43,7 +43,7 @@ export const TextBox = styled.div`
     font-size: large;
     color: #2b2b2b;
   }
-  @media (max-width: 1000px) {
+  @media (max-width: 1050px) {
     padding: 0 5px 0 5px;
     h1 {
       font-weight: 6000;
@@ -57,7 +57,8 @@ export const AboutImage = styled.img`
   max-height: 450px;
   padding: 18px;
   align-content: center;
-  border-radius: 7%;  
+  border-radius: 7%;
+  overflow: hidden;
   @media (max-width: 1000px) {
     flex-basis: 100%;
     height: auto;
