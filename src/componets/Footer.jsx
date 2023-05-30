@@ -2,7 +2,6 @@ import React from "react";
 import {FooterContainer,FooterTextBox,FooterSocialMediaContainer} from "./Footer.style";
 import { IconButton} from "@material-ui/core";
 import FacebookIcon from "@material-ui/icons/Facebook";
-import LanguageIcon from "@material-ui/icons/Language";
 
 const Footer =(
 ) => {

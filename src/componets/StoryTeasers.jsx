@@ -1,8 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import {HomeTeasersContainer,ProductImage,  TeasersTextContainer, EmptyTopBoxes, EmptyBottomBoxes,TextBoxStyled,Button} from "./HomeTeaser.style";
 
-import {makeStyles} from "@material-ui/core";
-
 
 const StoryTeasers =(
     {imageName}
