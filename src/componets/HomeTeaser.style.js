@@ -69,7 +69,7 @@ margin:15px;
     margin-bottom: 1px;
   }
   p{margin: 1px;}
-  @media (max-width: 400px) {
+  @media (max-width: 450px) {
     h1{
       font-size: x-large;
     };
@@ -86,9 +86,9 @@ export const Button = styled.button`
   border-radius: 5px;
   outline: 0;
   text-transform: uppercase;
-  margin: 10px 0px;
+  margin: 10px 0;
   cursor: pointer;
-  box-shadow: 0px 2px 2px lightgray;
+  box-shadow: 0 2px 2px lightgray;
   transition: ease background-color 250ms;
   &:hover {
     background-color: #0A122A;
@@ -124,8 +124,8 @@ export const ProductImage = styled.img`
   @media (max-width: 1000px) {
    visibility: collapse;
     display: none;
-    height: 0px;
-    flex : 0%
+    height: 0;
+    flex : 0
 
   }
 `

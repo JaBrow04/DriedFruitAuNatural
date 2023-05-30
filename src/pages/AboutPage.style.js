@@ -19,7 +19,7 @@ export const AboutContainer = styled.div`
     max-width: 95vw;
     flex-direction: column;
     height: fit-content;
-    padding: 40px 0px 80px;
+    padding: 40px 0 80px;
     }`
 export const TextBox = styled.div`
   align-content: center;
@@ -29,8 +29,8 @@ export const TextBox = styled.div`
   flex-direction: column;
   max-height:500px;
   text-align: left;
-  margin: 0px 0px 0px 0px;
-  padding: 0px 50px 0px 50px;
+  margin: 0 0 0 0;
+  padding: 0 50px 0 50px;
   h1 {
     font-weight: 500;
     font-size: xxx-large;
@@ -44,7 +44,7 @@ export const TextBox = styled.div`
     color: #2b2b2b;
   }
   @media (max-width: 1000px) {
-    padding: 0px 5px 0px 5px;
+    padding: 0 5px 0 5px;
     h1 {
       font-weight: 6000;
       text-align: center;
@@ -71,7 +71,6 @@ export const ContactContainer = styled.div`
     justify-content: center;
     align-items: center;
   box-sizing: border-box;   
-    //height:500px;
   width: 100%;
   max-width: 100%;
   text-align : center;
@@ -84,11 +83,15 @@ export const ContactContainer = styled.div`
     margin-top: 0;
     margin-bottom: 0;
     color: #0A122A;
+    padding-right: 20px;
+    padding-left: 20px;
   }
   h2 {
     font-family: 'Brightwall', cursive;
     color: #0A122A;
-
+  }
+  @media (max-width: 500px) {
+    padding: 20px 20px;
   }
 `
 
@@ -97,7 +100,7 @@ export const MarketGrid = styled.div`
   gap: 50px;
     grid-template-columns: 1fr 1fr 1fr;
     border-bottom: black;
-    padding: 50px 0px;
+    padding: 50px 0;
  flex-basis: 100%;
   width : 95%;
   max-width: 2000px;
