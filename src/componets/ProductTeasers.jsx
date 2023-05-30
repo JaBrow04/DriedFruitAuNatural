@@ -12,7 +12,7 @@ import {
 } from "./ProductTeaser.style";
 
 const ProductTeasers =(
-    {direction, imageName}
+    { imageName}
 ) =>
 {
     let navigate = useNavigate();
@@ -27,7 +27,7 @@ const ProductTeasers =(
                 <EmptyBottomBoxes/>
                 <TextBoxStyled>
                     <h1>The Difference</h1>
-                    <p>Locally sourced produce dehydrated in the heart of Sioux Falls, South Dakota.</p>
+                    <p>Locally dehydrated produce in the heart of Sioux Falls, South Dakota.</p>
                     <Button onClick={routeChange}>Discover</Button>
                 </TextBoxStyled>
 
