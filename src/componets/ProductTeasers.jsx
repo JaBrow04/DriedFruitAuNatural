@@ -27,7 +27,7 @@ const ProductTeasers =(
                 <EmptyBottomBoxes/>
                 <TextBoxStyled>
                     <h1>The Difference</h1>
-                    <p>Locally dehydrated produce in the heart of Sioux Falls, South Dakota.</p>
+                    <p>Locally dehydrated produce with no sugar or preservatives added.</p>
                     <Button onClick={routeChange}>Discover</Button>
                 </TextBoxStyled>
 

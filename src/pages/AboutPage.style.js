@@ -27,7 +27,7 @@ export const TextBox = styled.div`
   display: flex;
   box-sizing: content-box;
   flex-direction: column;
-  //max-height:500px;
+  max-height:500px;
   text-align: left;
   margin: 0 0 0 0;
   padding: 0 50px 0 50px;
@@ -58,11 +58,11 @@ export const AboutImage = styled.img`
   padding: 18px;
   align-content: center;
   border-radius: 7%;
-  overflow: hidden;
   @media (max-width: 1000px) {
     flex-basis: 100%;
     height: auto;
     max-width: 90vw;
+    max-height: 90vw;
   }
 `
 
