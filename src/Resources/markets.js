@@ -20,13 +20,32 @@ const markets = [
 
     },
     {
-        "name": "605 Made Night Market",
-        "location" :"Southeast corner of 6th Street and Phillips Avenue in downtown Sioux Falls\n"+
-            "August 26, 2023 from 3pm - 9pm",
-        "linkFb" :"https://fb.me/e/1fADd2LWn",
+        "name": "Hartford Farmers Market",
+        "location" :"Main Ave, Hartford, SD\nFrom Modish Boutique to Menth St (South Bar.)\n"+
+            "First Monday of the month from 5pm - 8:30pm\nJune through September",
+        "link" :"https://www.hartfordsdfarmersmarket.com/",
+        "linkFb" : "https://www.facebook.com/HartfordSDFarmersMarket/",
         "img":"pear.png"
 
     },
+    {
+        "name": "KELOLAND Living Arts & Crafts Show",
+        "location" :"Ramkota Exhibit Hall\n3200 W Maple St, Sioux Falls, SD 57107\n"+
+            "October 20th – 12pm-8pm\n" +
+            "October 21st, 2023 – 9am-5pm!\n",
+        "link" :"https://www.keloland.com/keloland-living/arts-crafts-show/",
+        "linkFb" : "https://www.facebook.com/events/182486902836245/220122239072711/",
+        "img":"citrus.png"
+
+    },
+    // {
+    //     "name": "605 Made Night Market",
+    //     "location" :"Southeast corner of 6th Street and Phillips Avenue in downtown Sioux Falls\n"+
+    //         "August 26, 2023 from 3pm - 9pm",
+    //     "linkFb" :"https://fb.me/e/1fADd2LWn",
+    //     "img":"pear.png"
+    //
+    // },
     {
         "name": "Brookings Summer Arts Festival",
         "location" :"104 6th St W, Brookings SD \nSaturday, July 8 from 10am - 7pm\n"+

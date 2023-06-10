@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0023aac-ecc4-4ae7-a708-c1ae21bf2e8e" name="Changes" comment="redirect">
+    <list default="true" id="e0023aac-ecc4-4ae7-a708-c1ae21bf2e8e" name="Changes" comment="Product update">
+      <changelist_data name="JaBrow04" email="115672295+jabrow04@users.noreply.github.com" date="1686361963000" />
+      <change afterPath="$PROJECT_DIR$/src/icons/citrus.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/ProductTeasers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/ProductTeasers.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/AboutPage.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutPage.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/markets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/markets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/ProductCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/ProductCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/ProductCard.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/ProductCard.style.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/jae20/Downloads/test/driedfruitaunaturalsd/public",
+    "last_opened_file_path": "C:/DriedFruitAuNatural/src/icons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,11 +54,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DriedFruitAuNatural\src\icons" />
       <recent name="C:\Users\jae20\Downloads\test\driedfruitaunaturalsd\public" />
       <recent name="C:\Users\jae20\Downloads\test\driedfruitaunaturalsd\build" />
       <recent name="C:\Users\jae20\Downloads\test\test\src\icons" />
       <recent name="C:\Users\jae20\Downloads\test\test\src\componets" />
-      <recent name="C:\Users\jae20\Downloads\test\test\src\Resources\Fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jae20\Downloads\test\test\src\icons" />

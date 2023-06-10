@@ -57,19 +57,15 @@ const produts = [
   },
   {
     "name": "Snack Mix",
-     "price" :price,
+      "description": "Available in Original, Spicy, Honey Roasted \nand Bacon Ranch ",
+      "price" : "$5.00",
     "img": "Fruit.jpg"
   },
-  {
-    "name": "Trail Mix",
-     "price" :price,
-    "img": "Fruit.jpg"
-  },
-  {
-    "name": "Mango Chili Jerky",
-    "description": "Dehydrated mango mash mixed with our famous spices.",
-     "price" :price,
-    "img": "Fruit.jpg"
-  },
+    {
+        "name": "Trail Mix",
+        "price" :"$6.00",
+        "img": "Fruit.jpg"
+    },
+
 ];
 export default produts;

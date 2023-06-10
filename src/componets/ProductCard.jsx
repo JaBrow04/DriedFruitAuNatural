@@ -11,7 +11,6 @@ export default function ProductCard(
 
     function handleClick() {
         setShowInfo(!showInfo);
-            console.log(showInfo)
     }
 
 

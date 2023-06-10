@@ -8,6 +8,7 @@ export const ProductCardContainer = styled(Card)`
 	display: flex;
 	flex-direction: column;
 	max-width: 90vw;
+    min-height: 45vh;
     max-height: 60vh;
   padding-bottom: 1em;
   border-radius: 12px;
@@ -27,9 +28,10 @@ export const ProductCardContainer = styled(Card)`
 		}
   h3,p {
     padding-left:20px;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    margin-block: 0px;
+    padding-right:20px;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-block: 0;
     color: #83704e;
     text-align: left;
   }
