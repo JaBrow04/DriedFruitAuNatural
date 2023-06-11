@@ -58,12 +58,12 @@ const produts = [
   {
     "name": "Snack Mix",
       "description": "Available in Original, Spicy, Honey Roasted \nand Bacon Ranch ",
-      "price" : "$5.00",
+      "price" : "$6.00",
     "img": "Fruit.jpg"
   },
     {
         "name": "Trail Mix",
-        "price" :"$6.00",
+        "price" :"$5.00",
         "img": "Fruit.jpg"
     },
 

@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0023aac-ecc4-4ae7-a708-c1ae21bf2e8e" name="Changes" comment="Product update">
-      <changelist_data name="JaBrow04" email="115672295+jabrow04@users.noreply.github.com" date="1686361963000" />
-      <change afterPath="$PROJECT_DIR$/src/icons/citrus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/markets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/markets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/ProductCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/ProductCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/ProductCard.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/ProductCard.style.js" afterDir="false" />
-    </list>
+    <list default="true" id="e0023aac-ecc4-4ae7-a708-c1ae21bf2e8e" name="Changes" comment="Product update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685480014501</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Product update">
+      <created>1686363652481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686363652481</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update name" />
     <MESSAGE value="redirect" />
-    <option name="LAST_COMMIT_MESSAGE" value="redirect" />
+    <MESSAGE value="Product update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Product update" />
   </component>
 </project>
